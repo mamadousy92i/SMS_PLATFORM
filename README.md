@@ -138,7 +138,7 @@ Le processus d’intégration commence par la création d’un compte sur le por
 - ![Écran du Dashboard](./captures/ecran-dashboard.png)
   - ![Volet Envoi SMS Rapide](./captures/envoi-rapide.png)
   - ![Volet Envoi SMS en Masse](./captures/envoi-masse.png)
-  - ![Volet Envoi SMS en Masse](./captures/envoi-masse_suite.png)
+  - ![Volet Envoi SMS en Masse](./captures/envoie-masse_suite.png)
 - ![Écran du Channels](./captures/ecran-channels.png)
   - ![Ajout rapide d’une Conversation](./captures/ajout-conversation.png)
 
