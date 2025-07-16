@@ -129,17 +129,23 @@ Le processus d’intégration commence par la création d’un compte sur le por
 
 ## 7. Captures d’Écran de la Plateforme
 
-📂 Assurez-vous que toutes les images sont dans un dossier `captures/` à côté du fichier `README.md`.
-
+## Accueil
 - ![Écran d’accueil](./captures/ecran-accueil.png)
+## Connexion
 - ![Écran de Connexion](./captures/ecran-connexion.png)
+## Inscription
 - ![Écran d’Inscription](./captures/ecran-inscription.png)
 - ![Écran d’Inscription](./captures/ecran-inscription_suite.png)
+## Dashboard
 - ![Écran du Dashboard](./captures/ecran-dashboard.png)
+## Envoi Rapide SMS
   - ![Volet Envoi SMS Rapide](./captures/envoi-rapide.png)
+## Envoi SMS en masse
   - ![Volet Envoi SMS en Masse](./captures/envoi-masse.png)
   - ![Volet Envoi SMS en Masse](./captures/envoie-masse_suite.png)
+## Conversation
 - ![Écran du Channels](./captures/ecran-channels.png)
+## Ajout Conversation
   - ![Ajout rapide d’une Conversation](./captures/ajout-conversation.png)
 
 ---
